@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a {
+  text-decoration: none;
+}
+
+h1{
+  cursor: pointer;
+  color: #F9A3BD;
+}
+
+h2{
+  cursor: pointer;
+  color: #F9A3BD;
+}
