@@ -1,6 +1,8 @@
-function videogames(req, res) {
+function videogamesAllandQuery(req, res) {
     const query = req.query
     if(query){
         
     }
 }
+
+export default videogamesAllandQuery;
